@@ -1,5 +1,5 @@
 FROM continuumio/miniconda3
-MAINTAINER "Fabian Witt"
+LABEL maintainer="Fabian Witt <fabian.witt@t-online.de>"
 
 # for proxy usage
 # ENV http_proxy=

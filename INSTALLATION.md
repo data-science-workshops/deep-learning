@@ -1,8 +1,13 @@
 # Einrichten der Entwicklungsumgebung
 
+* [Aufruf mit Hilfe des Browsers](#aufruf-mit-hilfe-des-browsers)
 * [Installation auf dem PC](#installation-auf-dem-pc)
 * [Installation via Docker](docker/README.md)
 
+
+## Aufruf mit Hilfe des Browsers
+
+Unter https://mybinder.org/v2/gh/data-science-workshops/deep-learning/master können Sie die Notebook über den Browser öffnen.
 
 ## Installation auf dem PC
 
