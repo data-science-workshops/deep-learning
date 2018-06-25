@@ -13,7 +13,7 @@ Unter https://mybinder.org/v2/gh/data-science-workshops/deep-learning/master kö
 
 1. Installieren Sie die Python-Distribution Anaconda: https://www.anaconda.com/download/ (Python 3).
 2. Laden Sie das GitHub-Repo herunter (als ZIP wird empfohlen)
-3. Navigieren Sie zum Repo-Ordner (dl-workshop)
+3. Navigieren Sie zum Repo-Ordner (deep-learning)
 4. Erstellen Sie ein Conda Environment ([Hilfe](https://conda.io/docs/using/envs.html)) mit Hilfe der Datei `environment.yml`.
     * `$ conda env create -f environment.yml`
     * Alternativ können Sie das Environment im Anaconda Navigator unter "Environments > Import (unten)" mit Hilfe der `environment.yml` Datei importieren
